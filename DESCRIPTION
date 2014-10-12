@@ -1,0 +1,10 @@
+Package: postcode
+Type: Package
+Title: Post code database of mainland China
+Version: 1.0
+Date: 2014-10-12
+Author: Guangyang Li
+Maintainer: Guangyang Li <bot@guangyangli.com>
+Description: This package contains a database of Chinese post code,
+		which includes the post code, province, city and district.
+License: GPL-2
